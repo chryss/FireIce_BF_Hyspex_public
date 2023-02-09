@@ -1,0 +1,19 @@
+name: hyspex_proc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - geopandas
+  - shapely
+  - fiona
+  - rasterio
+  - pysolar
+  - seaborn
+  - descartes
+  - matplotlib
+  - jupyter
+  - notebook
+  - future
+  - pip
+  - pip:
+    - asciitable

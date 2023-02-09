@@ -1,0 +1,4 @@
+ 1013.0   R0.000000   lab pressure, instrument pressure (mbar, hPa)
+                  instrument pressure is relative or absolute
+                  R=r=relative pressure above ambient flight altitude
+                  A=a=absolute pressure in instrument

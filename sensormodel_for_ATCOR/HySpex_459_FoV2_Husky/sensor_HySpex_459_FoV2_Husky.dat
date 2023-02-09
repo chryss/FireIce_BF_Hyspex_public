@@ -1,0 +1,6 @@
+  33.0  1800  across-track FOV [degree], pixel per line
+     1   459  first, last reflective band (0.35 - 2.55 micron)
+     0     0  first, last mid IR band (2.6 - 7.1 micron)
+     0     0  first, last thermal band (7.1 - 14 micron)
+     0        flag for tilt in flight direction
+     0        no gain settings
